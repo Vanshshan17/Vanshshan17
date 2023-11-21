@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanshshan17
-- 👀 I’m interested in coding,blockchain,metaverse,etc..
-- 🌱 I’m currently learning c++ language
+- 👀 I’m interested in coding,analysis,metaverse,etc..
+- 🌱 I’m currently learning ai/ml
 - 💞️ I’m looking to collaborate on various intresting ideas
 - 📫 How to reach me vansh.shan17@gmail.com
 
